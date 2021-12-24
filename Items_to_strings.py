@@ -16,7 +16,7 @@ def list(list1):
 list1= ['I','am','XYZ']
 list(list1)
 
-#taking input from user
+#taking input from the user
 
 user_input = input("enter ")
 splitting_user_input=user_input.split()
