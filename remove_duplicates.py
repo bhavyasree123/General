@@ -1,4 +1,4 @@
-dup = ['one','two','three','four','five','one','two']
+dup = ['pri','one','two','three','four','five','one','two','ok']
 
 for i in dup:
     print(i)
