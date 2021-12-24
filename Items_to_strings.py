@@ -15,3 +15,11 @@ def list(list1):
     print(str.join(list1))
 list1= ['I','am','XYZ']
 list(list1)
+
+#taking input from user
+
+user_input = input("enter ")
+splitting_user_input=user_input.split()
+print(splitting_user_input)
+input_join = ''.join(splitting_user_input)
+print(input_join)
