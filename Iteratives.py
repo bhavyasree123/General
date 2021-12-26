@@ -53,3 +53,40 @@ for i in range(rows,0,-1):
             111
             11
             1'''
+
+rows = 5
+b = 0
+for i in range(rows,0,-1):
+    b = +5
+    for j in range(1,i+1):
+        print(b,end='')
+    print('')
+'''Output   55555
+            5555
+            555
+            55
+            5 '''
+
+rows =  5
+for i in range(0,rows+1):
+    for j in range(0,i+1):
+        print(j,end='')
+    print('')
+
+'''Output   0
+            01
+            012
+            0123
+            01234
+            012345'''
+rows = 5
+for i in range(rows,0,-1):
+    for j in range(0,i+1):
+        print(j,end='')
+    print('')
+'''Output   012345
+            012345
+            01234
+            0123
+            012
+            01'''
