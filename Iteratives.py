@@ -89,4 +89,5 @@ for i in range(rows,0,-1):
             01234
             0123
             012
-            01'''
+            01  https://pynative.com/print-pattern-python-examples/'''
+
