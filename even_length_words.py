@@ -15,7 +15,8 @@ for w in s:
     if len(w)%2==0: #it prints only if the single word inside the sentence has even alphabets
         print(w)
     #else:
-        #print("It don't have even alphabets in a word")
+        #print("It don't have even alphabets in a word  ")
 ''' Outpt :am
         Bhavya
         Sree'''
+print('Hello')
