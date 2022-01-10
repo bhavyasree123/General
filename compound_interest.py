@@ -1,0 +1,5 @@
+p = int(input("Enter your p value : "))
+t = int(input("Enter your t value : "))
+r = int(input("Enter your r value : "))
+compound = p* (pow((1+r/100),t))
+print("Your compound interest is : " , compound)
