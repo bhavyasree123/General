@@ -19,4 +19,3 @@ for w in s:
 ''' Outpt :am
         Bhavya
         Sree'''
-print('Hello')
