@@ -19,3 +19,4 @@ for i in range(input_str):
     rev = arr[0]-arr[-1]
 print(rev)
 print("hello")
+
