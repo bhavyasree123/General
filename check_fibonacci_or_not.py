@@ -13,3 +13,5 @@ else:
         print("YES")
     else:
         print("NO :<(")
+
+#Work hard
